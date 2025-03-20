@@ -1,0 +1,37 @@
+/* Contact Page Styles */
+.contact {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+  }
+  
+  .contact h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .contact .lead {
+    font-size: 1.25rem;
+    color: #6c757d;
+  }
+  
+  .contact h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .contact iframe {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact .btn-danger {
+    background-color: #dc3545;
+    border: none;
+    transition: background-color 0.3s;
+  }
+  
+  .contact .btn-danger:hover {
+    background-color: #c82333;
+  }
